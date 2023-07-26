@@ -8,9 +8,9 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-    <a href="https://linkedin.com/in/ankikadey"><img height="34" src="images/socials/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
-    <a href="https://facebook.com/Ankika.Dey.2003"><img height="34" src="images/socials/facebook.svg" alt="Facebook"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/_usr.not.found_"><img height="34" src="resources/insta.gif" alt="Instagram"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/ankikadey"><img height="50" src="resources/socials/LinkedIn/gif/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn"></a>&nbsp;&nbsp;
+    <a href="https://facebook.com/Ankika.Dey.2003"><img height="50" src="resources/socials/Facebook/gif/371907490_FACEBOOK_ICON_TRANSPARENT_1080.gif" alt="Facebook"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/_usr.not.found_"><img height="50" src="resources/socials/Instagram/Instagram.gif" alt="Instagram"></a>&nbsp;&nbsp;
 </p>
 
 <!-- github trophies -->
