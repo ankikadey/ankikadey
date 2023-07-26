@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://linkedin.com/in/ankikadey"><img height="34" src="images/socials/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
     <a href="https://facebook.com/Ankika.Dey.2003"><img height="34" src="images/socials/facebook.svg" alt="Facebook"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/_usr.not.found_"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/_usr.not.found_"><img height="34" src="resources/insta.gif" alt="Instagram"></a>&nbsp;&nbsp;
 </p>
 
 <!-- github trophies -->
