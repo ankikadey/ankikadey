@@ -1,5 +1,5 @@
 <!-- banner image to be updated -->
-<img src="images/header.png" alt="banner image">
+<img src="resources/Skills/headers/header.png" alt="banner image">
 
 <!-- profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankikadey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
@@ -27,9 +27,9 @@
 <!-- github stats -->
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-    <img height="160px" width="160px" src="images/wings/left.svg" alt="left wing"> <!-- to be made responsive -->
+    <img height="160px" width="160px" src="resources/Skills/wings/left.svg" alt="left wing"> <!-- to be made responsive -->
     <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=ankikadey&theme=windows-dark&hide_border=true" alt="streak stats">
-    <img height="160px" width="160px" src="images/wings/right.svg" alt="right wing">  <!-- to be made responsive -->
+    <img height="160px" width="160px" src="resources/Skills/wings/right.svg" alt="right wing">  <!-- to be made responsive -->
     <p></p>
     <img src="https://github-readme-stats.vercel.app/api?username=ankikadey&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&count_private=true" alt="github stats">
     &nbsp;&nbsp;
@@ -43,40 +43,39 @@
 :books: Skills :desktop_computer:
 </h1>
 
-<h1>Platform:&nbsp;&nbsp; <!-- Platform -->
-    <img src="images/platforms/android.svg" height="34" alt="Android" align=right>&nbsp;&nbsp;
-    <img src="images/platforms/ios.png" height="34" alt="iOS" align=right>&nbsp;&nbsp;
-    <img src="images/platforms/windows.svg" height="34" alt="Windows" align=right>&nbsp;&nbsp;
-    <img src="images/platforms/linux.svg" height="34" alt="Linux" align=right>&nbsp;&nbsp;
-</h1>
+<h2>Platform:&nbsp;&nbsp; <!-- Platform -->
+    <img src="resources/Skills/platforms/android.svg" height="30" alt="Android" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/platforms/ios.png" height="30" alt="iOS" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/platforms/windows.svg" height="30" alt="Windows" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/platforms/linux.svg" height="30" alt="Linux" align=right>&nbsp;&nbsp;
+</h2>
 
-<h1>Language & Script:&nbsp;&nbsp; <!-- Language & Script -->
-    <img src="images/languages/pwsh.svg" height="34" alt="PowerShell" align=right>&nbsp;&nbsp;
-    <img src="images/languages/bash.svg" height="34" alt="bash" align=right>&nbsp;&nbsp;
-    <img src="images/languages/python.svg" height="34" alt="python" align=right>&nbsp;&nbsp;
-    <img src="images/languages/java.svg" height="34" alt="JAVA" align=right>&nbsp;&nbsp;
-    <img src="images/languages/cpp.svg" height="34" alt="C++" align=right>&nbsp;&nbsp;
-    <img src="images/languages/c.svg" height="34" alt="C" align=right>&nbsp;&nbsp;
-</h1>
+<h2>Language & Script:&nbsp;&nbsp; <!-- Language & Script -->
+    <img src="resources/Skills/languages/pwsh.svg" height="30" alt="PowerShell" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/languages/bash.svg" height="30" alt="bash" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/languages/python.svg" height="30" alt="python" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/languages/java.svg" height="30" alt="JAVA" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/languages/cpp.svg" height="30" alt="C++" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/languages/c.svg" height="30" alt="C" align=right>&nbsp;&nbsp;
+</h2>
 
-<h1>Frontend:&nbsp;&nbsp; <!-- Frontend -->
-    <img src="images/frontend/react.svg" height="34" alt="React" align=right>&nbsp;&nbsp;
-    <img src="images/frontend/bootstrap.svg" height="34" alt="Bootstrap" align=right>&nbsp;&nbsp;
-    <img src="images/frontend/js.svg" height="34" alt="JavaScript" align=right>&nbsp;&nbsp;
-    <img src="images/frontend/css.svg" height="34" alt="CSS" align=right>&nbsp;&nbsp;
-    <img src="images/frontend/html.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
-</h1>
+<h2>Frontend:&nbsp;&nbsp; <!-- Frontend -->
+    <img src="resources/Skills/frontend/react.svg" height="30" alt="React" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/frontend/bootstrap.svg" height="30" alt="Bootstrap" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/languages/js.png" height="30" alt="JavaScript" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/frontend/css.svg" height="30" alt="CSS" align=right>&nbsp;&nbsp;
+</h2>
 
-<h1>Backend:&nbsp;&nbsp; <!-- Backend -->
-    <img src="images/backend/express-js.svg" height="34" alt="ExpressJS" align=right>&nbsp;&nbsp;
-    <img src="images/backend/node-js.svg" height="34" alt="Node.js" align=right>&nbsp;&nbsp;
-</h1>
+<h2>Backend:&nbsp;&nbsp; <!-- Backend -->
+    <img src="resources/Skills/backend/express-js.svg" height="30" alt="ExpressJS" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/backend/node-js.svg" height="30" alt="Node.js" align=right>&nbsp;&nbsp;
+</h2>
 
-<h1>DevOps:&nbsp;&nbsp; <!-- DevOps -->
-    <img src="images/dev-ops/github.svg" height="34" alt="Github" align=right>&nbsp;&nbsp;
-    <img src="images/dev-ops/git.svg" height="34" alt="Git" align=right>&nbsp;&nbsp;
-</h1>
+<h2>DevOps:&nbsp;&nbsp; <!-- DevOps -->
+    <img src="resources/Skills/dev-ops/github.svg" height="30" alt="Github" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/dev-ops/git.svg" height="30" alt="Git" align=right>&nbsp;&nbsp;
+</h2>
 
-<h1>IoT:&nbsp;&nbsp; <!-- IoT -->
-    <img src="images/iot/arduino.svg" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
-</h1>
+<h2>IoT:&nbsp;&nbsp; <!-- IoT -->
+    <img src="resources/Skills/iot/arduino.svg" height="30" alt="Arduino" align=right>&nbsp;&nbsp;
+</h2>
