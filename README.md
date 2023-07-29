@@ -4,8 +4,12 @@
 <!-- profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankikadey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
+
 <!-- social links -->
 <h3 align="center">Connect with me</h3>
+<p align="center">
+    <img src="resources/avatar/1844cbbc-c9a9-4aa7-8a25-663990179a99.gif" alt="avatar" align="center"></a>
+</p>
 
 <p align="center">
     <a href="https://linkedin.com/in/ankikadey"><img height="50" src="resources/socials/LinkedIn/gif/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn"></a>&nbsp;&nbsp;
