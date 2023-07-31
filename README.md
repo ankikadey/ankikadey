@@ -1,8 +1,10 @@
 <!-- banner image to be updated -->
-<img src="resources/Skills/headers/header.png" alt="banner image">
+<p align = "center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=35&pause=1000&color=1D9A39&center=true&vCenter=true&width=500&height=70&lines=Hi+there+!+;I+am+Ankika+!">
+</p>
 
 <!-- profile views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankikadey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankikadey&label=Profile%20views&color=0e75b6&style=flat" alt="profile     views" /> </p>
 
 
 <!-- social links -->
@@ -28,18 +30,16 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=ankikadey&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=PullRequest,Repositories,Reviews)
 </div>
 
-<!-- github stats -->
-<h3 align="center">GitHub Stats</h3>
-<div align="center">
-    <img height="160px" width="160px" src="resources/Skills/wings/left.svg" alt="left wing"> <!-- to be made responsive -->
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=ankikadey&theme=windows-dark&hide_border=true" alt="streak stats">
-    <img height="160px" width="160px" src="resources/Skills/wings/right.svg" alt="right wing">  <!-- to be made responsive -->
-    <p></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ankikadey&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&count_private=true" alt="github stats">
-    &nbsp;&nbsp;
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=ankikadey&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10" height="194.8px" alt="language stats">
-</div>
+<!-- Githb Stats Alternative -->
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=ankikadey&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=368 src="https://github-readme-stats.vercel.app/api?username=ankikadey&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=react&border_radius=10" alt="github stats">
+    &nbsp;&nbsp;
+  <br/>
+  <img width=370 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=ankikadey&show_icons=true&locale=en&theme=react&border_radius=10&layout=compact&langs_count=10" height="194.8px" alt="language stats">
+</div>
 
 <!-- Skills -->
 <h1 align=center>
@@ -83,7 +83,3 @@
 <h2>IoT:&nbsp;&nbsp; <!-- IoT -->
     <img src="resources/Skills/iot/arduino.svg" height="30" alt="Arduino" align=right>&nbsp;&nbsp;
 </h2>
-
-<!--START_SECTION:waka-->
-![WakaTime](https://wakatime.com)
-<!--END_SECTION:waka-->
