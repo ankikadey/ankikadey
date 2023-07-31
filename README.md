@@ -73,6 +73,10 @@
 <h2>Backend:&nbsp;&nbsp; <!-- Backend -->
     <img src="resources/Skills/backend/express-js.svg" height="30" alt="ExpressJS" align=right>&nbsp;&nbsp;
     <img src="resources/Skills/backend/node-js.svg" height="30" alt="Node.js" align=right>&nbsp;&nbsp;
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 </h2>
 
 <h2>DevOps:&nbsp;&nbsp; <!-- DevOps -->
