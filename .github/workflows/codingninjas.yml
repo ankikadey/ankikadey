@@ -1,25 +1,16 @@
-name: Update Coding Ninjas Stats
+name: Work Stats Readme
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 */2 * * *'
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
 
 jobs:
-  update-readme-with-wakatime:
-    name: Update this repo's README with WakaTime stats
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: jakejarvis/wakatime-badge@master
+      - uses: athul/waka-readme@master
         with:
-          api_key: ${{ secrets.WAKATIME_API_KEY }}
-          username: AnkikaDey
-          layout: default
-          hide_border: true
-          style: flat-square
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'ankikadey'
-          git config --global user.email 'ankikadey@outlook.com'
-          git commit -am "Updated with recent coding activity"
-          git push
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
