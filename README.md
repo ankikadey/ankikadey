@@ -68,6 +68,7 @@
     <img src="resources/Skills/frontend/bootstrap.svg" height="30" alt="Bootstrap" align=right>&nbsp;&nbsp;
     <img src="resources/Skills/languages/js.png" height="30" alt="JavaScript" align=right>&nbsp;&nbsp;
     <img src="resources/Skills/frontend/css.svg" height="30" alt="CSS" align=right>&nbsp;&nbsp;
+    <img src="resources/Skills/frontend/html.svg" height="30" alt="HTML" align=right>&nbsp;&nbsp;
 </h2>
 
 <h2>Backend:&nbsp;&nbsp; <!-- Backend -->
