@@ -73,10 +73,6 @@
 <h2>Backend:&nbsp;&nbsp; <!-- Backend -->
     <img src="resources/Skills/backend/express-js.svg" height="30" alt="ExpressJS" align=right>&nbsp;&nbsp;
     <img src="resources/Skills/backend/node-js.svg" height="30" alt="Node.js" align=right>&nbsp;&nbsp;
-
-<!--START_SECTION:waka-->
-![WakaTime](https://wakatime.com)
-<!--END_SECTION:waka-->
 </h2>
 
 <h2>DevOps:&nbsp;&nbsp; <!-- DevOps -->
@@ -87,3 +83,7 @@
 <h2>IoT:&nbsp;&nbsp; <!-- IoT -->
     <img src="resources/Skills/iot/arduino.svg" height="30" alt="Arduino" align=right>&nbsp;&nbsp;
 </h2>
+
+<!--START_SECTION:waka-->
+![WakaTime](https://wakatime.com)
+<!--END_SECTION:waka-->
