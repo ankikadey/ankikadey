@@ -19,7 +19,7 @@ jobs:
           style: flat-square
       - name: Commit and push changes
         run: |
-          git config --global user.name 'Ankika Dey'
+          git config --global user.name 'ankikadey'
           git config --global user.email 'ankikadey@outlook.com'
           git commit -am "Updated with recent coding activity"
           git push
