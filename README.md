@@ -6,8 +6,8 @@
 <!-- profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankikadey&label=Profile%20views&color=0e75b6&style=flat" alt="profile     views" /> </p>
 
-<!--START_SECTION:SHOW_TOTAL_CODE_TIME-->
-<!--END_SECTION:SHOW_TOTAL_CODE_TIME-->
+<!-- add wakatime -->
+[![wakatime](https://wakatime.com/badge/user/fb642b9a-ca19-4dba-b4d2-ef00e4e6bfe4.svg)](https://wakatime.com/@fb642b9a-ca19-4dba-b4d2-ef00e4e6bfe4)
 
 <!-- social links -->
 <h3 align="center">Connect with me</h3>
