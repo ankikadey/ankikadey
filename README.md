@@ -6,6 +6,8 @@
 <!-- profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankikadey&label=Profile%20views&color=0e75b6&style=flat" alt="profile     views" /> </p>
 
+<!--START_SECTION:SHOW_TOTAL_CODE_TIME-->
+<!--END_SECTION:SHOW_TOTAL_CODE_TIME-->
 
 <!-- social links -->
 <h3 align="center">Connect with me</h3>
