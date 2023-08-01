@@ -86,3 +86,6 @@
 <h2>IoT:&nbsp;&nbsp; <!-- IoT -->
     <img src="resources/Skills/iot/arduino.svg" height="30" alt="Arduino" align=right>&nbsp;&nbsp;
 </h2>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
