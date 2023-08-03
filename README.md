@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/ankikadey"><img height="50" src="resources/socials/LinkedIn/gif/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn"></a>&nbsp;&nbsp;
-    <a href="https://facebook.com/Ankika.Dey.2003"><img height="50" src="resources/socials/Facebook/gif/371907490_FACEBOOK_ICON_TRANSPARENT_1080.gif" alt="Facebook"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/_usr.not.found_"><img height="50" src="resources/socials/Instagram/gif/371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif" alt="Instagram"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/ankika_dey"><img height="50" src="resources/socials/Twitter/gif/371907030_TWITTER_ICON_TRANSPARENT_1080.gif" alt="Twitter"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/ankikadey"><img height="34" src="resources/socials/LinkedIn/gif/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn"></a>&nbsp;&nbsp;
+    <a href="https://facebook.com/Ankika.Dey.2003"><img height="34" src="resources/socials/Facebook/gif/371907490_FACEBOOK_ICON_TRANSPARENT_1080.gif" alt="Facebook"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/_usr.not.found_"><img height="34" src="resources/socials/Instagram/gif/371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif" alt="Instagram"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/ankika_dey"><img height="34" src="resources/socials/Twitter/gif/371907030_TWITTER_ICON_TRANSPARENT_1080.gif" alt="Twitter"></a>&nbsp;&nbsp;
 </p>
 
 <!-- github trophies -->
