@@ -42,6 +42,14 @@
   <br/>
   <img width=370 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=ankikadey&show_icons=true&locale=en&theme=react&border_radius=10&layout=compact&langs_count=10" height="194.8px" alt="language stats">
 </div>
+<br>
+
+
+<!--LeetCode Stats-->
+<!--<div align=center>
+    <h2>Coding Stats</h2>
+    <img src="https://leetcard.jacoblin.cool/Ankika_Dey?theme=dark&font=Ruluko&ext=activity" width=40%>
+</div>-->
 
 <!-- Skills -->
 <h1 align=center>
