@@ -36,8 +36,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ankikadey&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
+  <!-- <img width=390 src="https://streak-stats.demolab.com/?user=ankikadey&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+
+  <img width = 390 src="https://streak-stats.demolab.com?user=ankikadey&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <img width=368 src="https://github-readme-stats.vercel.app/api?username=ankikadey&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=react&border_radius=10" alt="github stats">
     &nbsp;&nbsp;
   <br/>
