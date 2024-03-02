@@ -25,13 +25,6 @@
 <!-- github trophies -->
 <h3 align="center">GitHub Trophies</h3>
 <div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=ankikadey&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=Commits,Followers,Stars)
-<br>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ankikadey&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=PullRequest,Repositories,Reviews)
-<br>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ankikadey&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
