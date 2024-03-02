@@ -25,7 +25,9 @@
 <!-- github trophies -->
 <h3 align="center">GitHub Trophies</h3>
 <div align="center">
+    
 [![trophy](https://github-profile-trophy.vercel.app/?username=ankikadey&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <!-- Githb Stats Alternative -->
