@@ -22,28 +22,32 @@
     <a href="https://twitter.com/ankika_dey"><img height="50" src="resources/socials/Twitter/png/371907030_TWITTER_ICON_1080.png" alt="Twitter"></a>&nbsp;&nbsp;
 </p>
 
+---
 <!-- github trophies -->
-<h3 align="center">GitHub Trophies</h3>
+<h3 align="center">🏆 GitHub Trophies 🥇</h3>
 <div align="center">
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankikadey&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<!-- Githb Stats Alternative -->
-<h2 align="center">⚡ Stats ⚡</h2>
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=ankikadey&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Commits,Followers,Stars,MultiLanguage)
 <br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ankikadey&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=PullRequest,Repositories,Reviews,Issues)
+</div>
+---
+
+---
+
+<!-- github stats -->
+<h3 align="center">📈 GitHub Stats 📊</h3>
 <div align=center>
-  <!-- <img width=390 src="https://streak-stats.demolab.com/?user=ankikadey&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-
-  <img width = 390 src="https://streak-stats.demolab.com?user=ankikadey&theme=transparent&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-  <img width=368 src="https://github-readme-stats.vercel.app/api?username=ankikadey&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=transparent&border_radius=10" alt="github stats">
+  <img width=390 src="https://streak-stats.demolab.com/?user=ankikadey&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=368 src="https://github-readme-stats.vercel.app/api?username=ankikadey&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=react&border_radius=10" alt="github stats">
     &nbsp;&nbsp;
   <br/>
-  <img width=370 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=ankikadey&show_icons=true&locale=en&theme=transparent&border_radius=10&layout=compact&langs_count=10" height="194.8px" alt="language stats">
+  <img width=370 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=ankikadey&show_icons=true&locale=en&theme=react&border_radius=10&layout=compact&langs_count=10" height="194.8px" alt="language stats">
 </div>
 <br>
+
+---
 
 
 <!--LeetCode Stats-->
@@ -96,5 +100,4 @@
     <img src="resources/Skills/iot/arduino.svg" height="30" alt="Arduino" align=right>&nbsp;&nbsp;
 </h2>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+---
