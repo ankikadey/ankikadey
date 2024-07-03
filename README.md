@@ -47,10 +47,10 @@
 
 
 <!--LeetCode Stats-->
-<!--<div align=center>
+<div align=center>
     <h2>Coding Stats</h2>
-    <img src="https://leetcard.jacoblin.cool/Ankika_Dey?theme=dark&font=Ruluko&ext=activity" width=40%>
-</div>-->
+    <img src="https://leetcard.jacoblin.cool/ankikadey?theme=dark&font=Ruluko&ext=activity" width=40%>
+</div>
 
 <!-- Skills -->
 <h1 align=center>
